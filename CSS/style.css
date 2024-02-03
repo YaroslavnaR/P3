@@ -1,0 +1,117 @@
+nav a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 900;
+    color:#FE8535;
+    text-shadow: 5px 10px 11px;
+}
+
+
+
+nav a:hover {
+    color: #FD292F;
+    text-shadow: 5px 10px 11px #FD292F;
+}
+
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+body {
+    
+}
+
+h1{
+    color:#F7C815 ;
+    text-shadow: 5px 10px 11px #FDB10B;
+    text-align: center;
+    font-size: 74px;
+}
+
+h1:hover{
+    text-shadow: 5px 10px 11px #FD292F;
+    color:#B20000 ;
+}
+
+h2{
+    color: #FE8535;
+    font-size: 35px;
+    text-align: center;
+    font-family: COMIC SANS MS;
+   
+}
+
+
+
+p{
+    color: #B20000; 
+    font-family: COMIC SANS MS;
+    font-size: 25px;
+    
+}
+
+footer{
+    background-color: #B20000;
+    padding: 100px;
+    height: 300px;
+}
+
+.p1{
+    color:#FDB10B ;
+    font-size: 25px;
+    font-family:COMIC SANS MS ;
+    text-align: center;
+}
+
+input{display: block;
+    margin-bottom: 50px;
+width: 200px;
+height: 25px;}
+
+label{
+font-size: 20px;
+font-weight: 900;
+color: #FDB10B;
+}
+
+
+.kar1{width: 200px;
+height: 200px;
+transform: rotate(75deg);}
+
+
+.kar2{width: 200px;
+    height: 200px;
+    transform: rotate(45deg);
+top:50px;position: absolute;
+right: 50px;}
+
+    
+.kar3{width: 200px;
+    height: 200px;
+    top:150px;position: absolute;
+ 
+transform: rotate(60deg);}
+
+.kar4{width: 200px;
+    height: 200px;
+ 
+transform: rotate(20deg);
+position: absolute;
+top:300px;
+left:600px;}
+
+.kar5{width: 200px;
+
+    height: 200px;
+ 
+
+position: absolute;
+top:200px;
+right:70px;
+top: 520px;
+transform: rotate(25deg);}
